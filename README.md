@@ -60,7 +60,7 @@
 
 ![Mendix](https://img.shields.io/badge/-MENDIX-146ff4?style=for-the-badge) 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
 ![Apache Subversion](https://img.shields.io/badge/-Subversion-7c97c3?style=for-the-badge&logo=subversion&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
